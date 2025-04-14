@@ -2,6 +2,14 @@
 
 Welcome to the **Music Genre Classification** project! This deep learning-powered web app can predict the genre of a song from an uploaded audio file using MFCC features and a neural network. Built with **Streamlit** for a smooth user experience and trained using **Keras** and **TensorFlow**.
 
+## 🔥 Demo Screenshots
+
+### 🎧 Upload Interface
+![Upload Interface](https://github.com/ShardulMorecode/music-genre-classification/blob/main/archive%20(1)/Data/Screenshot%202025-04-14%20211140.png)
+
+### 🎵 Prediction Result
+![Prediction Result](https://github.com/ShardulMorecode/music-genre-classification/blob/main/archive%20(1)/Data/Screenshot%202025-04-14%20211221.png)
+
 ---
 
 ## 🚀 Features
